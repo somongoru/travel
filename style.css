@@ -1,0 +1,50 @@
+body {margin: 0;}
+
+.top {
+    display: flex;
+}
+
+.header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 5px 20px;
+  background-color: #2a7;
+}
+
+.search {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #eef;
+    min-height: 60px;
+    }
+
+.sibori {
+    width: 70px;
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #aaf;
+    min-height: 60px;
+}
+
+.carousel {
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #ffa;
+    min-height: 250px;
+}
+
+.pickup {
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #aff;
+    min-height: 500px;
+}
+
+.MAP {
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #eaf;
+    min-height: 500px;
+}
